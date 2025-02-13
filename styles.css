@@ -7,8 +7,8 @@
 
 /* VARIABLES */
 :root {
-    --primary-color: #B03060;
-    --primary-hover: #B03060;
+    --primary-color: #ffff;
+    --primary-hover: #00000;
     --secondary-color: #00000;
     --background-light: #00000;
     --text-color: #333;
@@ -23,7 +23,7 @@ body {
 
 /* HEADER */
 header {
-    background-color: #fff;
+    background-color: #00000;
     padding: 20px 0;
     border-bottom: 2px solid var(--background-light);
 }
