@@ -18,7 +18,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: #fff;
-    color: var(--text-color);
+    color: #fff;
 }
 
 /* HEADER */
@@ -45,7 +45,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: var(--text-color);
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
     transition: all 0.3s ease-in-out;
