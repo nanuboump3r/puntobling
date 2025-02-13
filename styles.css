@@ -7,7 +7,7 @@
 
 /* VARIABLES */
 :root {
-    --primary-color: #ffff;
+    --primary-color: #00000;
     --primary-hover: #00000;
     --secondary-color: #00000;
     --background-light: #00000;
@@ -58,7 +58,7 @@ nav ul li a:hover {
 /* BANNER */
 .banner {
     background-color: var(--primary-color);
-    color: #fff;
+    color: #00000;
     text-align: center;
     padding: 100px 20px;
 }
@@ -74,7 +74,7 @@ nav ul li a:hover {
 }
 
 .banner .btn {
-    background-color: #fff;
+    background-color: #0000;
     color: var(--primary-color);
     padding: 10px 20px;
     text-decoration: none;
@@ -84,7 +84,7 @@ nav ul li a:hover {
 }
 
 .banner .btn:hover {
-    background-color: #f1f1f1;
+    background-color: #00000;
 }
 
 /* TIENDA */
@@ -136,7 +136,7 @@ nav ul li a:hover {
 
 .product .add-to-cart {
     background-color: var(--primary-color);
-    color: #fff;
+    color: #00000;
     padding: 10px;
     border: none;
     border-radius: 5px;
